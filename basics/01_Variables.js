@@ -1,8 +1,8 @@
 // JavaScript variables practice
 const accountId = 144553
-let accountEmail = "hitesh@google.com"
+let accountEmail = "Yash@google.com"
 var accountPassword = "12345"
-accountCity = "Jaipur"
+accountCity = "Pune"
 let accountState;
 
 // accountId = 2 // not allowed
